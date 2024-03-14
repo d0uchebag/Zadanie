@@ -1,0 +1,15 @@
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\bin\Debug\net6.0\1. InstructionSet.exe
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\bin\Debug\net6.0\1. InstructionSet.deps.json
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\bin\Debug\net6.0\1. InstructionSet.runtimeconfig.json
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\bin\Debug\net6.0\1. InstructionSet.dll
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\bin\Debug\net6.0\1. InstructionSet.pdb
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\obj\Debug\net6.0\1. InstructionSet.csproj.AssemblyReference.cache
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\obj\Debug\net6.0\1. InstructionSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\obj\Debug\net6.0\1. InstructionSet.AssemblyInfoInputs.cache
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\obj\Debug\net6.0\1. InstructionSet.AssemblyInfo.cs
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\obj\Debug\net6.0\1. InstructionSet.csproj.CoreCompileInputs.cache
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\obj\Debug\net6.0\1. InstructionSet.dll
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\obj\Debug\net6.0\refint\1. InstructionSet.dll
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\obj\Debug\net6.0\1. InstructionSet.pdb
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\obj\Debug\net6.0\1. InstructionSet.genruntimeconfig.cache
+C:\Users\pc1\Documents\3. Debugging\InstructionSet\obj\Debug\net6.0\ref\1. InstructionSet.dll
